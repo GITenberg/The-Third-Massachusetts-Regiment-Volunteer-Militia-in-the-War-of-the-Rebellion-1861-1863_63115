@@ -7,7 +7,12 @@ contributor:
     agent_name: Gammons, John Gray
     gutenberg_agent_id: '52294'
     url: http://www.gutenberg.org/2009/agents/52294
+covers:
+- cover_type: archival
+  image_path: 63115-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63115#The-Third-Massachusetts-Regiment-Volunteer-Militia-in-the-War-of-the-Rebellion-1861-1863
 gutenberg_issued: '2020-09-04'
 gutenberg_type: Text
 identifiers:
