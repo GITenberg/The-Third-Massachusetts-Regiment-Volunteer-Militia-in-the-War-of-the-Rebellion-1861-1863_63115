@@ -1,0 +1,28 @@
+_repo: The-Third-Massachusetts-Regiment-Volunteer-Militia-in-the-War-of-the-Rebellion-1861-1863_63115
+_version: 0.0.1
+alternative_title: The 3rd Massachusetts Regiment Volunteer Militia in the War of
+  the Rebellion, 1861-1863
+contributor:
+  compiler:
+    agent_name: Gammons, John Gray
+    gutenberg_agent_id: '52294'
+    url: http://www.gutenberg.org/2009/agents/52294
+description: ''
+gutenberg_issued: '2020-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63115'
+  lccn: 06041912
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 3rd (1861)'
+- !lcc 'E456'
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 3rd (1862-1863)'
+- GITenberg
+title: The Third Massachusetts Regiment Volunteer Militia in the War of the Rebellion,
+  1861-1863
+url: http://www.gutenberg.org/ebooks/63115
